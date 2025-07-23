@@ -1,58 +1,60 @@
-# Hey, I'm Backfos! 👋
-aka pomoci
+# 👋 Hey there, I'm **Backfos**!
 
-I'm a passionate coder learning Python, CyberSec, and JavaScript.  
-I love building Discord bots, automation tools, and exploring new tech.
-
----
-
-### 🚀 Projects you might like
-
-- [BanJelacic - Clash of Clans Discord Bot](https://github.com/JelacicBan/BanJelacic) – Moderation, war & CWL management.  
-- [DiscordNuker](https://github.com/JelacicBan/DiscordNuker) – Server automation bot.  
-- [Multitool](https://github.com/JelacicBan/Multitool) – Custom Discord selfbot & utilities.
+Passionate coder diving deep into **Python**, **Cybersecurity**, and **JavaScript**.  
+I build Discord bots, automation tools, and love exploring new tech to level up my skills every day.
 
 ---
 
-### 💻 Skills
+## 🚀 Featured Projects
 
-Python | JavaScript | Discord.py | Git | Linux | Cybersecurity basics
-
----
-
-### 📫 How to reach me
-
-- Discord: Backy-Fosy#9663  
-- Email: pomoci.kali@gmail.com  
-- GitHub: [JelacicBan](https://github.com/JelacicBan)  
+- 🔥 [**BanJelacic**](https://github.com/JelacicBan/BanJelacic) — Clash of Clans Discord Bot for moderation, war & CWL management.  
+- 💣 [**DiscordNuker**](https://github.com/JelacicBan/DiscordNuker) — Powerful server automation bot.  
+- 🛠️ [**Multitool**](https://github.com/JelacicBan/Multitool) — Custom Discord selfbot & handy utilities.
 
 ---
 
-### 📈 Contributions & Activity
+## 💻 Tech & Skills
 
+Python | JavaScript | Discord.py | Git | Linux | Cybersecurity Basics | Automation | APIs
+
+---
+
+## 📬 Get In Touch
+
+- 💬 Discord: **Backy-Fosy#9663**  
+- 📧 Email: [pomoci.kali@gmail.com](mailto:pomoci.kali@gmail.com)  
+- 🌐 GitHub: [github.com/JelacicBan](https://github.com/JelacicBan)  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<!-- Contribution Heatmap -->
 ![🔥 GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=JelacicBan&theme=react-dark&area=true)
 
-![📊 Backfos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JelacicBan&show_icons=true&count_private=true&theme=dark)
+<!-- General Stats -->
+![📈 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JelacicBan&show_icons=true&count_private=true&theme=dark&hide=prs)
 
+<!-- Streak -->
 ![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JelacicBan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
-### 💪 Activity Badges
+## 🏅 Activity Highlights
 
-![Commits Badge](https://img.shields.io/badge/Commits-500%2B-brightgreen)  
-![PRs Badge](https://img.shields.io/badge/PRs-50%2B-blue)  
-![Issues Badge](https://img.shields.io/badge/Issues-30%2B-orange)
+![Commits](https://img.shields.io/badge/Commits-500%2B-brightgreen?style=for-the-badge&logo=github)  
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-50%2B-blue?style=for-the-badge&logo=github)  
+![Issues](https://img.shields.io/badge/Issues-30%2B-orange?style=for-the-badge&logo=github)
 
 ---
 
-### 🏆 Top Languages
+## 🌟 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JelacicBan&layout=donut&theme=dark)
 
 ---
 
-### ⚡ Current Focus
+## ⚡ Currently Learning & Exploring
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -61,4 +63,10 @@ Python | JavaScript | Discord.py | Git | Linux | Cybersecurity basics
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> _“Code is like humor. When you have to explain it, it’s bad.”_  
+> — Cory House
+
+---
+
+✨ Thanks for stopping by! Feel free to connect or explore my projects.  
+🚀 Always leveling up, one commit at a time.
