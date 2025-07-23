@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Backfos**!
+# 👋 Hey there, I'm **Backfos**! aka. Pomoci
 
 Passionate coder diving deep into **Python**, **Cybersecurity**, and **JavaScript**.  
 I build Discord bots, automation tools, and love exploring new tech to level up my skills every day.
