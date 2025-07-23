@@ -29,13 +29,13 @@ Python | JavaScript | Discord.py | Git | Linux | Cybersecurity basics
 
 ### 📈 Contributions & Activity
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JelacicBan&theme=react-dark&area=true)
+![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=JelacicBan&theme=react-dark&area=true)
 
 ---
 
 ### 🏅 GitHub Trophies
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=JelacicBan&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JelacicBan&theme=radical)
 
 ---
 
