@@ -1,4 +1,5 @@
 # Hey, I'm Backfos! 👋
+aka pomoci
 
 I'm a passionate coder learning Python, CyberSec, and JavaScript.  
 I love building Discord bots, automation tools, and exploring new tech.
@@ -27,21 +28,24 @@ Python | JavaScript | Discord.py | Git | Linux | Cybersecurity basics
 
 ---
 
-### 📈 Contributions & Activity
+### 📊 GitHub Stats
 
-![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=JelacicBan&theme=react-dark&area=true)
-
----
-
-### 🏅 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JelacicBan&theme=radical)
+![Backfos' GitHub stats](https://github-readme-stats.vercel.app/api?username=JelacicBan&show_icons=true&theme=dark)
 
 ---
 
 ### 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JelacicBan&layout=donut&theme=dark)
+
+---
+
+### ⚡ Current Focus
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00FF00?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ---
 
