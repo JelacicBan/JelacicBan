@@ -28,9 +28,21 @@ Python | JavaScript | Discord.py | Git | Linux | Cybersecurity basics
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contributions & Activity
 
-![Backfos' GitHub stats](https://github-readme-stats.vercel.app/api?username=JelacicBan&show_icons=true&theme=dark)
+![🔥 GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=JelacicBan&theme=react-dark&area=true)
+
+![📊 Backfos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JelacicBan&show_icons=true&count_private=true&theme=dark)
+
+![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JelacicBan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+### 💪 Activity Badges
+
+![Commits Badge](https://img.shields.io/badge/Commits-500%2B-brightgreen)  
+![PRs Badge](https://img.shields.io/badge/PRs-50%2B-blue)  
+![Issues Badge](https://img.shields.io/badge/Issues-30%2B-orange)
 
 ---
 
