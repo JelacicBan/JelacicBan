@@ -21,7 +21,7 @@ Python | JavaScript | Discord.py | Git | Linux | Cybersecurity Basics | Automati
 
 ## 📬 Get In Touch
 
-- 💬 Discord: **Backy-Fosy#9663**  
+- 💬 Discord: **Backfos**  
 - 📧 Email: [pomoci.kali@gmail.com](mailto:pomoci.kali@gmail.com)  
 - 🌐 GitHub: [github.com/JelacicBan](https://github.com/JelacicBan)  
 
