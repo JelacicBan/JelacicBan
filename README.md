@@ -69,4 +69,4 @@ Python | JavaScript | Discord.py | Git | Linux | Cybersecurity Basics | Automati
 ---
 
 ✨ Thanks for stopping by! Feel free to connect or explore my projects.  
-🚀 Always leveling up, one commit at a time.
+
