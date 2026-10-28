@@ -15,7 +15,7 @@ I build Discord bots, automation tools, and love exploring new tech.
 
 ## 💻 Tech & Skills
 
-Python | JavaScript | Discord.py | Git | Linux | Cybersecurity Basics | Automation | APIs
+Python | Discord.py | Git | Linux | Cybersecurity Basics | Automation | APIs
 
 ---
 
